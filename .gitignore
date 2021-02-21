@@ -133,3 +133,5 @@ dmypy.json
 
 # intellij configs
 .idea/
+
+*/*/settings.json
